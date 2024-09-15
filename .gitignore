@@ -1,2 +1,5 @@
 #environment file
 .env
+
+#node module folder
+/camera_app/node_modules

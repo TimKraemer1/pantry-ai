@@ -48,5 +48,19 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/pantryai-virtual-pantry.git
-   cd pantryai-virtual-pantry
+   cd pantryai-virtual-pantry```
+
+2. **Install Dependencies**
+    ```npm install```
+
+## **Usage**
+
+## **API Integration**
+
+## **Contributing**
+
+## **License**
+
+## **Contact**
+
 
